@@ -6,27 +6,27 @@
             "position": "Product Designer",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/igor-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/igor-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/igor-desktop-3x.jpg 3x"
+                    "./images/igor-desktop-1x.jpg 1x,",
+                    "./images/igor-desktop-2x.jpg 2x,",
+                    "./images/igor-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/igor-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/igor-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/igor-tablet-3x.jpg 3x"
+                    "./images/igor-tablet-1x.jpg 1x,",
+                    "./images/igor-tablet-2x.jpg 2x,",
+                    "./images/igor-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/igor-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/igor-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/igor-mobile-3x.jpg 3x"
+                    "./images/igor-mobile-1x.jpg 1x,",
+                    "./images/igor-mobile-2x.jpg 2x,",
+                    "./images/igor-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/igor-mobile-1x.jpg"
+                "default": "./images/igor-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
+                "./images/symboldefs.svg#instagram",
+                "./images/symboldefs.svg#twitter",
+                "./images/symboldefs.svg#facebook",
+                "./images/symboldefs.svg#linkedin"
             ]
         },
         {
@@ -35,27 +35,27 @@
             "position": "Frontend Developer",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/olga-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/olga-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/olga-desktop-3x.jpg 3x"
+                    "./images/olga-desktop-1x.jpg 1x,",
+                    "./images/olga-desktop-2x.jpg 2x,",
+                    "./images/olga-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/olga-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/olga-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/olga-tablet-3x.jpg 3x"
+                    "./images/olga-tablet-1x.jpg 1x,",
+                    "./images/olga-tablet-2x.jpg 2x,",
+                    "./images/olga-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/olga-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/olga-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/olga-mobile-3x.jpg 3x"
+                    "./images/olga-mobile-1x.jpg 1x,",
+                    "./images/olga-mobile-2x.jpg 2x,",
+                    "./images/olga-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/olga-mobile-1x.jpg"
+                "default": "./images/olga-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
+                "./images/symboldefs.svg#instagram",
+                "./images/symboldefs.svg#twitter",
+                "./images/symboldefs.svg#facebook",
+                "./images/symboldefs.svg#linkedin"
             ]
         },
         {
@@ -64,27 +64,27 @@
             "position": "Marketing",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/mykola-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola-desktop-3x.jpg 3x"
+                    "./images/mykola-desktop-1x.jpg 1x,",
+                    "./images/mykola-desktop-2x.jpg 2x,",
+                    "./images/mykola-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/mykola-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola-tablet-3x.jpg 3x"
+                    "./images/mykola-tablet-1x.jpg 1x,",
+                    "./images/mykola-tablet-2x.jpg 2x,",
+                    "./images/mykola-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/mykola-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola-mobile-3x.jpg 3x"
+                    "./images/mykola-mobile-1x.jpg 1x,",
+                    "./images/mykola-mobile-2x.jpg 2x,",
+                    "./images/mykola-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/mykola-mobile-1x.jpg"
+                "default": "./images/mykola-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
+                "./images/symboldefs.svg#instagram",
+                "./images/symboldefs.svg#twitter",
+                "./images/symboldefs.svg#facebook",
+                "./images/symboldefs.svg#linkedin"
             ]
         },
         {
@@ -93,27 +93,27 @@
             "position": "UI Designer",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/muhailo-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo-desktop-3x.jpg 3x"
+                    "./images/muhailo-desktop-1x.jpg 1x,",
+                    "./images/muhailo-desktop-2x.jpg 2x,",
+                    "./images/muhailo-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/muhailo-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo-tablet-3x.jpg 3x"
+                    "./images/muhailo-tablet-1x.jpg 1x,",
+                    "./images/muhailo-tablet-2x.jpg 2x,",
+                    "./images/muhailo-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/muhailo-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo-mobile-3x.jpg 3x"
+                    "./images/muhailo-mobile-1x.jpg 1x,",
+                    "./images/muhailo-mobile-2x.jpg 2x,",
+                    "./images/muhailo-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/muhailo-mobile-1x.jpg"
+                "default": "./images/muhailo-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
+                "./images/symboldefs.svg#instagram",
+                "./images/symboldefs.svg#twitter",
+                "./images/symboldefs.svg#facebook",
+                "./images/symboldefs.svg#linkedin"
             ]
         },
         {
@@ -122,27 +122,27 @@
             "position": "Product Designer-2",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/igor2-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/igor2-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/igor2-desktop-3x.jpg 3x"
+                    "./images/igor2-desktop-1x.jpg 1x,",
+                    "./images/igor2-desktop-2x.jpg 2x,",
+                    "./images/igor2-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/igor2-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/igor2-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/igor2-tablet-3x.jpg 3x"
+                    "./images/igor2-tablet-1x.jpg 1x,",
+                    "./images/igor2-tablet-2x.jpg 2x,",
+                    "./images/igor2-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/igor2-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/igor2-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/igor2-mobile-3x.jpg 3x"
+                    "./images/igor2-mobile-1x.jpg 1x,",
+                    "./images/igor2-mobile-2x.jpg 2x,",
+                    "./images/igor2-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/igor2-mobile-1x.jpg"
+                "default": "./images/igor2-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
+                "./images/symboldefs.svg#instagram",
+                "./images/symboldefs.svg#twitter",
+                "./images/symboldefs.svg#facebook",
+                "./images/symboldefs.svg#linkedin"
             ]
         },
         {
@@ -151,27 +151,27 @@
             "position": "Frontend Developer-2",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/olga2-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/olga2-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/olga2-desktop-3x.jpg 3x"
+                    "./images/olga2-desktop-1x.jpg 1x,",
+                    "./images/olga2-desktop-2x.jpg 2x,",
+                    "./images/olga2-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/olga2-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/olga2-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/olga2-tablet-3x.jpg 3x"
+                    "./images/olga2-tablet-1x.jpg 1x,",
+                    "./images/olga2-tablet-2x.jpg 2x,",
+                    "./images/olga2-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/olga2-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/olga2-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/olga2-mobile-3x.jpg 3x"
+                    "./images/olga2-mobile-1x.jpg 1x,",
+                    "./images/olga2-mobile-2x.jpg 2x,",
+                    "./images/olga2-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/olga2-mobile-1x.jpg"
+                "default": "./images/olga2-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
+                "./images/symboldefs.svg#instagram",
+                "./images/symboldefs.svg#twitter",
+                "./images/symboldefs.svg#facebook",
+                "./images/symboldefs.svg#linkedin"
             ]
         },
         {
@@ -180,27 +180,27 @@
             "position": "Marketing-2",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/mykola2-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola2-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola2-desktop-3x.jpg 3x"
+                    "./images/mykola2-desktop-1x.jpg 1x,",
+                    "./images/mykola2-desktop-2x.jpg 2x,",
+                    "./images/mykola2-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/mykola2-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola2-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola2-tablet-3x.jpg 3x"
+                    "./images/mykola2-tablet-1x.jpg 1x,",
+                    "./images/mykola2-tablet-2x.jpg 2x,",
+                    "./images/mykola2-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/mykola2-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola2-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola2-mobile-3x.jpg 3x"
+                    "./images/mykola2-mobile-1x.jpg 1x,",
+                    "./images/mykola2-mobile-2x.jpg 2x,",
+                    "./images/mykola2-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/mykola2-mobile-1x.jpg"
+                "default": "./images/mykola2-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
+                "./images/symboldefs.svg#instagram",
+                "./images/symboldefs.svg#twitter",
+                "./images/symboldefs.svg#facebook",
+                "./images/symboldefs.svg#linkedin"
             ]
         },
         {
@@ -209,27 +209,27 @@
             "position": "UI Designer-2",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/muhailo2-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo2-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo2-desktop-3x.jpg 3x"
+                    "./images/muhailo2-desktop-1x.jpg 1x,",
+                    "./images/muhailo2-desktop-2x.jpg 2x,",
+                    "./images/muhailo2-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/muhailo2-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo2-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo2-tablet-3x.jpg 3x"
+                    "./images/muhailo2-tablet-1x.jpg 1x,",
+                    "./images/muhailo2-tablet-2x.jpg 2x,",
+                    "./images/muhailo2-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/muhailo2-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo2-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo2-mobile-3x.jpg 3x"
+                    "./images/muhailo2-mobile-1x.jpg 1x,",
+                    "./images/muhailo2-mobile-2x.jpg 2x,",
+                    "./images/muhailo2-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/muhailo2-mobile-1x.jpg"
+                "default": "./images/muhailo2-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
+                "./images/symboldefs.svg#instagram",
+                "./images/symboldefs.svg#twitter",
+                "./images/symboldefs.svg#facebook",
+                "./images/symboldefs.svg#linkedin"
             ]
         },
         {
@@ -238,27 +238,27 @@
             "position": "Product Designer-2",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/igor3-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/igor3-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/igor3-desktop-3x.jpg 3x"
+                    "./images/igor3-desktop-1x.jpg 1x,",
+                    "./images/igor3-desktop-2x.jpg 2x,",
+                    "./images/igor3-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/igor3-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/igor3-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/igor3-tablet-3x.jpg 3x"
+                    "./images/igor3-tablet-1x.jpg 1x,",
+                    "./images/igor3-tablet-2x.jpg 2x,",
+                    "./images/igor3-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/igor3-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/igor3-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/igor3-mobile-3x.jpg 3x"
+                    "./images/igor3-mobile-1x.jpg 1x,",
+                    "./images/igor3-mobile-2x.jpg 2x,",
+                    "./images/igor3-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/igor3-mobile-1x.jpg"
+                "default": "./images/igor3-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
+                "./images/symboldefs.svg#instagram",
+                "./images/symboldefs.svg#twitter",
+                "./images/symboldefs.svg#facebook",
+                "./images/symboldefs.svg#linkedin"
             ]
         },
         {
@@ -267,27 +267,27 @@
             "position": "Frontend Developer-3",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/olga3-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/olga3-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/olga3-desktop-3x.jpg 3x"
+                    "./images/olga3-desktop-1x.jpg 1x,",
+                    "./images/olga3-desktop-2x.jpg 2x,",
+                    "./images/olga3-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/olga3-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/olga3-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/olga3-tablet-3x.jpg 3x"
+                    "./images/olga3-tablet-1x.jpg 1x,",
+                    "./images/olga3-tablet-2x.jpg 2x,",
+                    "./images/olga3-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/olga3-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/olga3-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/olga3-mobile-3x.jpg 3x"
+                    "./images/olga3-mobile-1x.jpg 1x,",
+                    "./images/olga3-mobile-2x.jpg 2x,",
+                    "./images/olga3-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/olga3-mobile-1x.jpg"
+                "default": "./images/olga3-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
+                "./images/symboldefs.svg#instagram",
+                "./images/symboldefs.svg#twitter",
+                "./images/symboldefs.svg#facebook",
+                "./images/symboldefs.svg#linkedin"
             ]
         },
         {
@@ -296,27 +296,27 @@
             "position": "Marketing-3",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/mykola3-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola3-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola3-desktop-3x.jpg 3x"
+                    "./images/mykola3-desktop-1x.jpg 1x,",
+                    "./images/mykola3-desktop-2x.jpg 2x,",
+                    "./images/mykola3-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/mykola3-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola3-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola3-tablet-3x.jpg 3x"
+                    "./images/mykola3-tablet-1x.jpg 1x,",
+                    "./images/mykola3-tablet-2x.jpg 2x,",
+                    "./images/mykola3-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/mykola3-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola3-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola3-mobile-3x.jpg 3x"
+                    "./images/mykola3-mobile-1x.jpg 1x,",
+                    "./images/mykola3-mobile-2x.jpg 2x,",
+                    "./images/mykola3-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/mykola3-mobile-1x.jpg"
+                "default": "./images/mykola3-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
+                "./images/symboldefs.svg#instagram",
+                "./images/symboldefs.svg#twitter",
+                "./images/symboldefs.svg#facebook",
+                "./images/symboldefs.svg#linkedin"
             ]
         },
         {
@@ -325,27 +325,27 @@
             "position": "UI Designer-3",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/muhailo3-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo3-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo3-desktop-3x.jpg 3x"
+                    "./images/muhailo3-desktop-1x.jpg 1x,",
+                    "./images/muhailo3-desktop-2x.jpg 2x,",
+                    "./images/muhailo3-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/muhailo3-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo3-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo3-tablet-3x.jpg 3x"
+                    "./images/muhailo3-tablet-1x.jpg 1x,",
+                    "./images/muhailo3-tablet-2x.jpg 2x,",
+                    "./images/muhailo3-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/muhailo3-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo3-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo3-mobile-3x.jpg 3x"
+                    "./images/muhailo3-mobile-1x.jpg 1x,",
+                    "./images/muhailo3-mobile-2x.jpg 2x,",
+                    "./images/muhailo3-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/muhailo3-mobile-1x.jpg"
+                "default": "./images/muhailo3-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
+                "./images/symboldefs.svg#instagram",
+                "./images/symboldefs.svg#twitter",
+                "./images/symboldefs.svg#facebook",
+                "./images/symboldefs.svg#linkedin"
             ]
         },
         {
@@ -354,27 +354,27 @@
             "position": "Product Designer-4",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/igor4-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/igor4-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/igor4-desktop-3x.jpg 3x"
+                    "./images/igor4-desktop-1x.jpg 1x,",
+                    "./images/igor4-desktop-2x.jpg 2x,",
+                    "./images/igor4-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/igor4-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/igor4-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/igor4-tablet-3x.jpg 3x"
+                    "./images/igor4-tablet-1x.jpg 1x,",
+                    "./images/igor4-tablet-2x.jpg 2x,",
+                    "./images/igor4-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/igor4-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/igor4-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/igor4-mobile-3x.jpg 3x"
+                    "./images/igor4-mobile-1x.jpg 1x,",
+                    "./images/igor4-mobile-2x.jpg 2x,",
+                    "./images/igor4-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/igor4-mobile-1x.jpg"
+                "default": "./images/igor4-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
+                "./images/symboldefs.svg#instagram",
+                "./images/symboldefs.svg#twitter",
+                "./images/symboldefs.svg#facebook",
+                "./images/symboldefs.svg#linkedin"
             ]
         },
         {
@@ -383,27 +383,27 @@
             "position": "Frontend Developer-4",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/olga4-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/olga4-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/olga4-desktop-3x.jpg 3x"
+                    "./images/olga4-desktop-1x.jpg 1x,",
+                    "./images/olga4-desktop-2x.jpg 2x,",
+                    "./images/olga4-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/olga4-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/olga4-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/olga4-tablet-3x.jpg 3x"
+                    "./images/olga4-tablet-1x.jpg 1x,",
+                    "./images/olga4-tablet-2x.jpg 2x,",
+                    "./images/olga4-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/olga4-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/olga4-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/olga4-mobile-3x.jpg 3x"
+                    "./images/olga4-mobile-1x.jpg 1x,",
+                    "./images/olga4-mobile-2x.jpg 2x,",
+                    "./images/olga4-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/olga4-mobile-1x.jpg"
+                "default": "./images/olga4-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
+                "./images/symboldefs.svg#instagram",
+                "./images/symboldefs.svg#twitter",
+                "./images/symboldefs.svg#facebook",
+                "./images/symboldefs.svg#linkedin"
             ]
         },
         {
@@ -412,27 +412,27 @@
             "position": "Marketing-4",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/mykola4-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola4-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola4-desktop-3x.jpg 3x"
+                    "./images/mykola4-desktop-1x.jpg 1x,",
+                    "./images/mykola4-desktop-2x.jpg 2x,",
+                    "./images/mykola4-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/mykola4-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola4-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola4-tablet-3x.jpg 3x"
+                    "./images/mykola4-tablet-1x.jpg 1x,",
+                    "./images/mykola4-tablet-2x.jpg 2x,",
+                    "./images/mykola4-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/mykola4-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola4-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola4-mobile-3x.jpg 3x"
+                    "./images/mykola4-mobile-1x.jpg 1x,",
+                    "./images/mykola4-mobile-2x.jpg 2x,",
+                    "./images/mykola4-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/mykola4-mobile-1x.jpg"
+                "default": "./images/mykola4-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
+                "./images/symboldefs.svg#instagram",
+                "./images/symboldefs.svg#twitter",
+                "./images/symboldefs.svg#facebook",
+                "./images/symboldefs.svg#linkedin"
             ]
         },
         {
@@ -441,27 +441,27 @@
             "position": "UI Designer-4",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/muhailo4-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo4-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo4-desktop-3x.jpg 3x"
+                    "./images/muhailo4-desktop-1x.jpg 1x,",
+                    "./images/muhailo4-desktop-2x.jpg 2x,",
+                    "./images/muhailo4-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/muhailo4-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo4-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo4-tablet-3x.jpg 3x"
+                    "./images/muhailo4-tablet-1x.jpg 1x,",
+                    "./images/muhailo4-tablet-2x.jpg 2x,",
+                    "./images/muhailo4-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/muhailo4-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo4-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo4-mobile-3x.jpg 3x"
+                    "./images/muhailo4-mobile-1x.jpg 1x,",
+                    "./images/muhailo4-mobile-2x.jpg 2x,",
+                    "./images/muhailo4-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/muhailo4-mobile-1x.jpg"
+                "default": "./images/muhailo4-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
+                "./images/symboldefs.svg#instagram",
+                "./images/symboldefs.svg#twitter",
+                "./images/symboldefs.svg#facebook",
+                "./images/symboldefs.svg#linkedin"
             ]
         },
         {
@@ -470,27 +470,27 @@
             "position": "Product Designer-5",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/igor5-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/igor5-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/igor5-desktop-3x.jpg 3x"
+                    "./images/igor5-desktop-1x.jpg 1x,",
+                    "./images/igor5-desktop-2x.jpg 2x,",
+                    "./images/igor5-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/igor5-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/igor5-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/igor5-tablet-3x.jpg 3x"
+                    "./images/igor5-tablet-1x.jpg 1x,",
+                    "./images/igor5-tablet-2x.jpg 2x,",
+                    "./images/igor5-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/igor5-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/igor5-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/igor5-mobile-3x.jpg 3x"
+                    "./images/igor5-mobile-1x.jpg 1x,",
+                    "./images/igor5-mobile-2x.jpg 2x,",
+                    "./images/igor5-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/igor5-mobile-1x.jpg"
+                "default": "./images/igor5-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
+                "./images/symboldefs.svg#instagram",
+                "./images/symboldefs.svg#twitter",
+                "./images/symboldefs.svg#facebook",
+                "./images/symboldefs.svg#linkedin"
             ]
         },
         {
@@ -499,27 +499,27 @@
             "position": "Frontend Developer-5",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/olga5-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/olga5-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/olga5-desktop-3x.jpg 3x"
+                    "./images/olga5-desktop-1x.jpg 1x,",
+                    "./images/olga5-desktop-2x.jpg 2x,",
+                    "./images/olga5-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/olga5-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/olga5-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/olga5-tablet-3x.jpg 3x"
+                    "./images/olga5-tablet-1x.jpg 1x,",
+                    "./images/olga5-tablet-2x.jpg 2x,",
+                    "./images/olga5-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/olga5-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/olga5-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/olga5-mobile-3x.jpg 3x"
+                    "./images/olga5-mobile-1x.jpg 1x,",
+                    "./images/olga5-mobile-2x.jpg 2x,",
+                    "./images/olga5-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/olga5-mobile-1x.jpg"
+                "default": "./images/olga5-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
+                "./images/symboldefs.svg#instagram",
+                "./images/symboldefs.svg#twitter",
+                "./images/symboldefs.svg#facebook",
+                "./images/symboldefs.svg#linkedin"
             ]
         },
         {
@@ -528,27 +528,27 @@
             "position": "Marketing-5",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/mykola5-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola5-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola5-desktop-3x.jpg 3x"
+                    "./images/mykola5-desktop-1x.jpg 1x,",
+                    "./images/mykola5-desktop-2x.jpg 2x,",
+                    "./images/mykola5-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/mykola5-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola5-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola5-tablet-3x.jpg 3x"
+                    "./images/mykola5-tablet-1x.jpg 1x,",
+                    "./images/mykola5-tablet-2x.jpg 2x,",
+                    "./images/mykola5-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/mykola5-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola5-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola5-mobile-3x.jpg 3x"
+                    "./images/mykola5-mobile-1x.jpg 1x,",
+                    "./images/mykola5-mobile-2x.jpg 2x,",
+                    "./images/mykola5-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/mykola5-mobile-1x.jpg"
+                "default": "./images/mykola5-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
+                "./images/symboldefs.svg#instagram",
+                "./images/symboldefs.svg#twitter",
+                "./images/symboldefs.svg#facebook",
+                "./images/symboldefs.svg#linkedin"
             ]
         },
         {
@@ -557,27 +557,27 @@
             "position": "UI Designer-5",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/muhailo5-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo5-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo5-desktop-3x.jpg 3x"
+                    "./images/muhailo5-desktop-1x.jpg 1x,",
+                    "./images/muhailo5-desktop-2x.jpg 2x,",
+                    "./images/muhailo5-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/muhailo5-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo5-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo5-tablet-3x.jpg 3x"
+                    "./images/muhailo5-tablet-1x.jpg 1x,",
+                    "./images/muhailo5-tablet-2x.jpg 2x,",
+                    "./images/muhailo5-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/muhailo5-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo5-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo5-mobile-3x.jpg 3x"
+                    "./images/muhailo5-mobile-1x.jpg 1x,",
+                    "./images/muhailo5-mobile-2x.jpg 2x,",
+                    "./images/muhailo5-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/muhailo5-mobile-1x.jpg"
+                "default": "./images/muhailo5-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
+                "./images/symboldefs.svg#instagram",
+                "./images/symboldefs.svg#twitter",
+                "./images/symboldefs.svg#facebook",
+                "./images/symboldefs.svg#linkedin"
             ]
         }
     ]
