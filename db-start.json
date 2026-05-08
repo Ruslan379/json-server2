@@ -6,28 +6,29 @@
             "position": "Product Designer",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/igor-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/igor-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/igor-desktop-3x.jpg 3x"
+                    "/be-different/images/igor-desktop-1x.jpg 1x,",
+                    "/be-different/images/igor-desktop-2x.jpg 2x,",
+                    "/be-different/images/igor-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/igor-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/igor-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/igor-tablet-3x.jpg 3x"
+                    "/be-different/images/igor-tablet-1x.jpg 1x,",
+                    "/be-different/images/igor-tablet-2x.jpg 2x,",
+                    "/be-different/images/igor-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/igor-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/igor-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/igor-mobile-3x.jpg 3x"
+                    "/be-different/images/igor-mobile-1x.jpg 1x,",
+                    "/be-different/images/igor-mobile-2x.jpg 2x,",
+                    "/be-different/images/igor-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/igor-mobile-1x.jpg"
+                "default": "/be-different/images/igor-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
-            ]
+                "/be-different/images/symboldefs.svg#instagram",
+                "/be-different/images/symboldefs.svg#twitter",
+                "/be-different/images/symboldefs.svg#facebook",
+                "/be-different/images/symboldefs.svg#linkedin"
+            ],
+            "id": "tmqqtxi2pkQ"
         },
         {
             "name": "Ольга Рєпіна",
@@ -35,28 +36,29 @@
             "position": "Frontend Developer",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/olga-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/olga-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/olga-desktop-3x.jpg 3x"
+                    "/be-different/images/olga-desktop-1x.jpg 1x,",
+                    "/be-different/images/olga-desktop-2x.jpg 2x,",
+                    "/be-different/images/olga-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/olga-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/olga-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/olga-tablet-3x.jpg 3x"
+                    "/be-different/images/olga-tablet-1x.jpg 1x,",
+                    "/be-different/images/olga-tablet-2x.jpg 2x,",
+                    "/be-different/images/olga-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/olga-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/olga-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/olga-mobile-3x.jpg 3x"
+                    "/be-different/images/olga-mobile-1x.jpg 1x,",
+                    "/be-different/images/olga-mobile-2x.jpg 2x,",
+                    "/be-different/images/olga-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/olga-mobile-1x.jpg"
+                "default": "/be-different/images/olga-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
-            ]
+                "/be-different/images/symboldefs.svg#instagram",
+                "/be-different/images/symboldefs.svg#twitter",
+                "/be-different/images/symboldefs.svg#facebook",
+                "/be-different/images/symboldefs.svg#linkedin"
+            ],
+            "id": "ipDdpAK2REw"
         },
         {
             "name": "Микола Тарасов",
@@ -64,28 +66,29 @@
             "position": "Marketing",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/mykola-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola-desktop-3x.jpg 3x"
+                    "/be-different/images/mykola-desktop-1x.jpg 1x,",
+                    "/be-different/images/mykola-desktop-2x.jpg 2x,",
+                    "/be-different/images/mykola-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/mykola-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola-tablet-3x.jpg 3x"
+                    "/be-different/images/mykola-tablet-1x.jpg 1x,",
+                    "/be-different/images/mykola-tablet-2x.jpg 2x,",
+                    "/be-different/images/mykola-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/mykola-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola-mobile-3x.jpg 3x"
+                    "/be-different/images/mykola-mobile-1x.jpg 1x,",
+                    "/be-different/images/mykola-mobile-2x.jpg 2x,",
+                    "/be-different/images/mykola-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/mykola-mobile-1x.jpg"
+                "default": "/be-different/images/mykola-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
-            ]
+                "/be-different/images/symboldefs.svg#instagram",
+                "/be-different/images/symboldefs.svg#twitter",
+                "/be-different/images/symboldefs.svg#facebook",
+                "/be-different/images/symboldefs.svg#linkedin"
+            ],
+            "id": "PZNSM8ha98s"
         },
         {
             "name": "Михайло Єрмаков",
@@ -93,28 +96,29 @@
             "position": "UI Designer",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/muhailo-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo-desktop-3x.jpg 3x"
+                    "/be-different/images/muhailo-desktop-1x.jpg 1x,",
+                    "/be-different/images/muhailo-desktop-2x.jpg 2x,",
+                    "/be-different/images/muhailo-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/muhailo-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo-tablet-3x.jpg 3x"
+                    "/be-different/images/muhailo-tablet-1x.jpg 1x,",
+                    "/be-different/images/muhailo-tablet-2x.jpg 2x,",
+                    "/be-different/images/muhailo-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/muhailo-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo-mobile-3x.jpg 3x"
+                    "/be-different/images/muhailo-mobile-1x.jpg 1x,",
+                    "/be-different/images/muhailo-mobile-2x.jpg 2x,",
+                    "/be-different/images/muhailo-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/muhailo-mobile-1x.jpg"
+                "default": "/be-different/images/muhailo-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
-            ]
+                "/be-different/images/symboldefs.svg#instagram",
+                "/be-different/images/symboldefs.svg#twitter",
+                "/be-different/images/symboldefs.svg#facebook",
+                "/be-different/images/symboldefs.svg#linkedin"
+            ],
+            "id": "6Xso15LkAXQ"
         },
         {
             "name": "Ігор Дем'яненко-2",
@@ -122,28 +126,29 @@
             "position": "Product Designer-2",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/igor2-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/igor2-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/igor2-desktop-3x.jpg 3x"
+                    "/be-different/images/igor2-desktop-1x.jpg 1x,",
+                    "/be-different/images/igor2-desktop-2x.jpg 2x,",
+                    "/be-different/images/igor2-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/igor2-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/igor2-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/igor2-tablet-3x.jpg 3x"
+                    "/be-different/images/igor2-tablet-1x.jpg 1x,",
+                    "/be-different/images/igor2-tablet-2x.jpg 2x,",
+                    "/be-different/images/igor2-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/igor2-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/igor2-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/igor2-mobile-3x.jpg 3x"
+                    "/be-different/images/igor2-mobile-1x.jpg 1x,",
+                    "/be-different/images/igor2-mobile-2x.jpg 2x,",
+                    "/be-different/images/igor2-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/igor2-mobile-1x.jpg"
+                "default": "/be-different/images/igor2-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
-            ]
+                "/be-different/images/symboldefs.svg#instagram",
+                "/be-different/images/symboldefs.svg#twitter",
+                "/be-different/images/symboldefs.svg#facebook",
+                "/be-different/images/symboldefs.svg#linkedin"
+            ],
+            "id": "nfZIwi3ADs8"
         },
         {
             "name": "Ольга Рєпіна-2",
@@ -151,28 +156,29 @@
             "position": "Frontend Developer-2",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/olga2-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/olga2-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/olga2-desktop-3x.jpg 3x"
+                    "/be-different/images/olga2-desktop-1x.jpg 1x,",
+                    "/be-different/images/olga2-desktop-2x.jpg 2x,",
+                    "/be-different/images/olga2-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/olga2-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/olga2-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/olga2-tablet-3x.jpg 3x"
+                    "/be-different/images/olga2-tablet-1x.jpg 1x,",
+                    "/be-different/images/olga2-tablet-2x.jpg 2x,",
+                    "/be-different/images/olga2-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/olga2-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/olga2-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/olga2-mobile-3x.jpg 3x"
+                    "/be-different/images/olga2-mobile-1x.jpg 1x,",
+                    "/be-different/images/olga2-mobile-2x.jpg 2x,",
+                    "/be-different/images/olga2-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/olga2-mobile-1x.jpg"
+                "default": "/be-different/images/olga2-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
-            ]
+                "/be-different/images/symboldefs.svg#instagram",
+                "/be-different/images/symboldefs.svg#twitter",
+                "/be-different/images/symboldefs.svg#facebook",
+                "/be-different/images/symboldefs.svg#linkedin"
+            ],
+            "id": "nlO82umaVMM"
         },
         {
             "name": "Микола Тарасов-2",
@@ -180,28 +186,29 @@
             "position": "Marketing-2",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/mykola2-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola2-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola2-desktop-3x.jpg 3x"
+                    "/be-different/images/mykola2-desktop-1x.jpg 1x,",
+                    "/be-different/images/mykola2-desktop-2x.jpg 2x,",
+                    "/be-different/images/mykola2-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/mykola2-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola2-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola2-tablet-3x.jpg 3x"
+                    "/be-different/images/mykola2-tablet-1x.jpg 1x,",
+                    "/be-different/images/mykola2-tablet-2x.jpg 2x,",
+                    "/be-different/images/mykola2-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/mykola2-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola2-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola2-mobile-3x.jpg 3x"
+                    "/be-different/images/mykola2-mobile-1x.jpg 1x,",
+                    "/be-different/images/mykola2-mobile-2x.jpg 2x,",
+                    "/be-different/images/mykola2-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/mykola2-mobile-1x.jpg"
+                "default": "/be-different/images/mykola2-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
-            ]
+                "/be-different/images/symboldefs.svg#instagram",
+                "/be-different/images/symboldefs.svg#twitter",
+                "/be-different/images/symboldefs.svg#facebook",
+                "/be-different/images/symboldefs.svg#linkedin"
+            ],
+            "id": "An3pYtYQHLc"
         },
         {
             "name": "Михайло Єрмаков-2",
@@ -209,28 +216,29 @@
             "position": "UI Designer-2",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/muhailo2-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo2-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo2-desktop-3x.jpg 3x"
+                    "/be-different/images/muhailo2-desktop-1x.jpg 1x,",
+                    "/be-different/images/muhailo2-desktop-2x.jpg 2x,",
+                    "/be-different/images/muhailo2-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/muhailo2-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo2-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo2-tablet-3x.jpg 3x"
+                    "/be-different/images/muhailo2-tablet-1x.jpg 1x,",
+                    "/be-different/images/muhailo2-tablet-2x.jpg 2x,",
+                    "/be-different/images/muhailo2-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/muhailo2-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo2-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo2-mobile-3x.jpg 3x"
+                    "/be-different/images/muhailo2-mobile-1x.jpg 1x,",
+                    "/be-different/images/muhailo2-mobile-2x.jpg 2x,",
+                    "/be-different/images/muhailo2-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/muhailo2-mobile-1x.jpg"
+                "default": "/be-different/images/muhailo2-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
-            ]
+                "/be-different/images/symboldefs.svg#instagram",
+                "/be-different/images/symboldefs.svg#twitter",
+                "/be-different/images/symboldefs.svg#facebook",
+                "/be-different/images/symboldefs.svg#linkedin"
+            ],
+            "id": "G0KqWQApy_w"
         },
         {
             "name": "Ігор Дем'яненко-3",
@@ -238,28 +246,29 @@
             "position": "Product Designer-2",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/igor3-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/igor3-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/igor3-desktop-3x.jpg 3x"
+                    "/be-different/images/igor3-desktop-1x.jpg 1x,",
+                    "/be-different/images/igor3-desktop-2x.jpg 2x,",
+                    "/be-different/images/igor3-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/igor3-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/igor3-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/igor3-tablet-3x.jpg 3x"
+                    "/be-different/images/igor3-tablet-1x.jpg 1x,",
+                    "/be-different/images/igor3-tablet-2x.jpg 2x,",
+                    "/be-different/images/igor3-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/igor3-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/igor3-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/igor3-mobile-3x.jpg 3x"
+                    "/be-different/images/igor3-mobile-1x.jpg 1x,",
+                    "/be-different/images/igor3-mobile-2x.jpg 2x,",
+                    "/be-different/images/igor3-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/igor3-mobile-1x.jpg"
+                "default": "/be-different/images/igor3-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
-            ]
+                "/be-different/images/symboldefs.svg#instagram",
+                "/be-different/images/symboldefs.svg#twitter",
+                "/be-different/images/symboldefs.svg#facebook",
+                "/be-different/images/symboldefs.svg#linkedin"
+            ],
+            "id": "TOa3LlQcKjQ"
         },
         {
             "name": "Ольга Рєпіна-3",
@@ -267,28 +276,29 @@
             "position": "Frontend Developer-3",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/olga3-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/olga3-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/olga3-desktop-3x.jpg 3x"
+                    "/be-different/images/olga3-desktop-1x.jpg 1x,",
+                    "/be-different/images/olga3-desktop-2x.jpg 2x,",
+                    "/be-different/images/olga3-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/olga3-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/olga3-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/olga3-tablet-3x.jpg 3x"
+                    "/be-different/images/olga3-tablet-1x.jpg 1x,",
+                    "/be-different/images/olga3-tablet-2x.jpg 2x,",
+                    "/be-different/images/olga3-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/olga3-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/olga3-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/olga3-mobile-3x.jpg 3x"
+                    "/be-different/images/olga3-mobile-1x.jpg 1x,",
+                    "/be-different/images/olga3-mobile-2x.jpg 2x,",
+                    "/be-different/images/olga3-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/olga3-mobile-1x.jpg"
+                "default": "/be-different/images/olga3-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
-            ]
+                "/be-different/images/symboldefs.svg#instagram",
+                "/be-different/images/symboldefs.svg#twitter",
+                "/be-different/images/symboldefs.svg#facebook",
+                "/be-different/images/symboldefs.svg#linkedin"
+            ],
+            "id": "GLafY0uq9e8"
         },
         {
             "name": "Микола Тарасов-3",
@@ -296,28 +306,29 @@
             "position": "Marketing-3",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/mykola3-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola3-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola3-desktop-3x.jpg 3x"
+                    "/be-different/images/mykola3-desktop-1x.jpg 1x,",
+                    "/be-different/images/mykola3-desktop-2x.jpg 2x,",
+                    "/be-different/images/mykola3-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/mykola3-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola3-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola3-tablet-3x.jpg 3x"
+                    "/be-different/images/mykola3-tablet-1x.jpg 1x,",
+                    "/be-different/images/mykola3-tablet-2x.jpg 2x,",
+                    "/be-different/images/mykola3-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/mykola3-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola3-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola3-mobile-3x.jpg 3x"
+                    "/be-different/images/mykola3-mobile-1x.jpg 1x,",
+                    "/be-different/images/mykola3-mobile-2x.jpg 2x,",
+                    "/be-different/images/mykola3-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/mykola3-mobile-1x.jpg"
+                "default": "/be-different/images/mykola3-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
-            ]
+                "/be-different/images/symboldefs.svg#instagram",
+                "/be-different/images/symboldefs.svg#twitter",
+                "/be-different/images/symboldefs.svg#facebook",
+                "/be-different/images/symboldefs.svg#linkedin"
+            ],
+            "id": "r_qp4pr9v2E"
         },
         {
             "name": "Михайло Єрмаков-3",
@@ -325,28 +336,29 @@
             "position": "UI Designer-3",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/muhailo3-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo3-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo3-desktop-3x.jpg 3x"
+                    "/be-different/images/muhailo3-desktop-1x.jpg 1x,",
+                    "/be-different/images/muhailo3-desktop-2x.jpg 2x,",
+                    "/be-different/images/muhailo3-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/muhailo3-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo3-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo3-tablet-3x.jpg 3x"
+                    "/be-different/images/muhailo3-tablet-1x.jpg 1x,",
+                    "/be-different/images/muhailo3-tablet-2x.jpg 2x,",
+                    "/be-different/images/muhailo3-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/muhailo3-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo3-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo3-mobile-3x.jpg 3x"
+                    "/be-different/images/muhailo3-mobile-1x.jpg 1x,",
+                    "/be-different/images/muhailo3-mobile-2x.jpg 2x,",
+                    "/be-different/images/muhailo3-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/muhailo3-mobile-1x.jpg"
+                "default": "/be-different/images/muhailo3-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
-            ]
+                "/be-different/images/symboldefs.svg#instagram",
+                "/be-different/images/symboldefs.svg#twitter",
+                "/be-different/images/symboldefs.svg#facebook",
+                "/be-different/images/symboldefs.svg#linkedin"
+            ],
+            "id": "71K5SqakZNA"
         },
         {
             "name": "Ігор Дем'яненко-4",
@@ -354,28 +366,29 @@
             "position": "Product Designer-4",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/igor4-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/igor4-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/igor4-desktop-3x.jpg 3x"
+                    "/be-different/images/igor4-desktop-1x.jpg 1x,",
+                    "/be-different/images/igor4-desktop-2x.jpg 2x,",
+                    "/be-different/images/igor4-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/igor4-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/igor4-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/igor4-tablet-3x.jpg 3x"
+                    "/be-different/images/igor4-tablet-1x.jpg 1x,",
+                    "/be-different/images/igor4-tablet-2x.jpg 2x,",
+                    "/be-different/images/igor4-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/igor4-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/igor4-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/igor4-mobile-3x.jpg 3x"
+                    "/be-different/images/igor4-mobile-1x.jpg 1x,",
+                    "/be-different/images/igor4-mobile-2x.jpg 2x,",
+                    "/be-different/images/igor4-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/igor4-mobile-1x.jpg"
+                "default": "/be-different/images/igor4-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
-            ]
+                "/be-different/images/symboldefs.svg#instagram",
+                "/be-different/images/symboldefs.svg#twitter",
+                "/be-different/images/symboldefs.svg#facebook",
+                "/be-different/images/symboldefs.svg#linkedin"
+            ],
+            "id": "8IXcXC16jzw"
         },
         {
             "name": "Ольга Рєпіна-4",
@@ -383,28 +396,29 @@
             "position": "Frontend Developer-4",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/olga4-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/olga4-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/olga4-desktop-3x.jpg 3x"
+                    "/be-different/images/olga4-desktop-1x.jpg 1x,",
+                    "/be-different/images/olga4-desktop-2x.jpg 2x,",
+                    "/be-different/images/olga4-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/olga4-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/olga4-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/olga4-tablet-3x.jpg 3x"
+                    "/be-different/images/olga4-tablet-1x.jpg 1x,",
+                    "/be-different/images/olga4-tablet-2x.jpg 2x,",
+                    "/be-different/images/olga4-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/olga4-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/olga4-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/olga4-mobile-3x.jpg 3x"
+                    "/be-different/images/olga4-mobile-1x.jpg 1x,",
+                    "/be-different/images/olga4-mobile-2x.jpg 2x,",
+                    "/be-different/images/olga4-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/olga4-mobile-1x.jpg"
+                "default": "/be-different/images/olga4-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
-            ]
+                "/be-different/images/symboldefs.svg#instagram",
+                "/be-different/images/symboldefs.svg#twitter",
+                "/be-different/images/symboldefs.svg#facebook",
+                "/be-different/images/symboldefs.svg#linkedin"
+            ],
+            "id": "0tZ5ndvfi4E"
         },
         {
             "name": "Микола Тарасов-4",
@@ -412,28 +426,29 @@
             "position": "Marketing-4",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/mykola4-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola4-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola4-desktop-3x.jpg 3x"
+                    "/be-different/images/mykola4-desktop-1x.jpg 1x,",
+                    "/be-different/images/mykola4-desktop-2x.jpg 2x,",
+                    "/be-different/images/mykola4-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/mykola4-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola4-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola4-tablet-3x.jpg 3x"
+                    "/be-different/images/mykola4-tablet-1x.jpg 1x,",
+                    "/be-different/images/mykola4-tablet-2x.jpg 2x,",
+                    "/be-different/images/mykola4-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/mykola4-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola4-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola4-mobile-3x.jpg 3x"
+                    "/be-different/images/mykola4-mobile-1x.jpg 1x,",
+                    "/be-different/images/mykola4-mobile-2x.jpg 2x,",
+                    "/be-different/images/mykola4-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/mykola4-mobile-1x.jpg"
+                "default": "/be-different/images/mykola4-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
-            ]
+                "/be-different/images/symboldefs.svg#instagram",
+                "/be-different/images/symboldefs.svg#twitter",
+                "/be-different/images/symboldefs.svg#facebook",
+                "/be-different/images/symboldefs.svg#linkedin"
+            ],
+            "id": "rrrBY2K9Z58"
         },
         {
             "name": "Михайло Єрмаков-4",
@@ -441,28 +456,29 @@
             "position": "UI Designer-4",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/muhailo4-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo4-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo4-desktop-3x.jpg 3x"
+                    "/be-different/images/muhailo4-desktop-1x.jpg 1x,",
+                    "/be-different/images/muhailo4-desktop-2x.jpg 2x,",
+                    "/be-different/images/muhailo4-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/muhailo4-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo4-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo4-tablet-3x.jpg 3x"
+                    "/be-different/images/muhailo4-tablet-1x.jpg 1x,",
+                    "/be-different/images/muhailo4-tablet-2x.jpg 2x,",
+                    "/be-different/images/muhailo4-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/muhailo4-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo4-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo4-mobile-3x.jpg 3x"
+                    "/be-different/images/muhailo4-mobile-1x.jpg 1x,",
+                    "/be-different/images/muhailo4-mobile-2x.jpg 2x,",
+                    "/be-different/images/muhailo4-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/muhailo4-mobile-1x.jpg"
+                "default": "/be-different/images/muhailo4-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
-            ]
+                "/be-different/images/symboldefs.svg#instagram",
+                "/be-different/images/symboldefs.svg#twitter",
+                "/be-different/images/symboldefs.svg#facebook",
+                "/be-different/images/symboldefs.svg#linkedin"
+            ],
+            "id": "rC1qXVKoBdw"
         },
         {
             "name": "Ігор Дем'яненко-5",
@@ -470,28 +486,29 @@
             "position": "Product Designer-5",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/igor5-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/igor5-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/igor5-desktop-3x.jpg 3x"
+                    "/be-different/images/igor5-desktop-1x.jpg 1x,",
+                    "/be-different/images/igor5-desktop-2x.jpg 2x,",
+                    "/be-different/images/igor5-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/igor5-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/igor5-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/igor5-tablet-3x.jpg 3x"
+                    "/be-different/images/igor5-tablet-1x.jpg 1x,",
+                    "/be-different/images/igor5-tablet-2x.jpg 2x,",
+                    "/be-different/images/igor5-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/igor5-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/igor5-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/igor5-mobile-3x.jpg 3x"
+                    "/be-different/images/igor5-mobile-1x.jpg 1x,",
+                    "/be-different/images/igor5-mobile-2x.jpg 2x,",
+                    "/be-different/images/igor5-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/igor5-mobile-1x.jpg"
+                "default": "/be-different/images/igor5-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
-            ]
+                "/be-different/images/symboldefs.svg#instagram",
+                "/be-different/images/symboldefs.svg#twitter",
+                "/be-different/images/symboldefs.svg#facebook",
+                "/be-different/images/symboldefs.svg#linkedin"
+            ],
+            "id": "oQrhX4mfL7k"
         },
         {
             "name": "Ольга Рєпіна-5",
@@ -499,28 +516,29 @@
             "position": "Frontend Developer-5",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/olga5-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/olga5-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/olga5-desktop-3x.jpg 3x"
+                    "/be-different/images/olga5-desktop-1x.jpg 1x,",
+                    "/be-different/images/olga5-desktop-2x.jpg 2x,",
+                    "/be-different/images/olga5-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/olga5-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/olga5-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/olga5-tablet-3x.jpg 3x"
+                    "/be-different/images/olga5-tablet-1x.jpg 1x,",
+                    "/be-different/images/olga5-tablet-2x.jpg 2x,",
+                    "/be-different/images/olga5-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/olga5-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/olga5-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/olga5-mobile-3x.jpg 3x"
+                    "/be-different/images/olga5-mobile-1x.jpg 1x,",
+                    "/be-different/images/olga5-mobile-2x.jpg 2x,",
+                    "/be-different/images/olga5-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/olga5-mobile-1x.jpg"
+                "default": "/be-different/images/olga5-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
-            ]
+                "/be-different/images/symboldefs.svg#instagram",
+                "/be-different/images/symboldefs.svg#twitter",
+                "/be-different/images/symboldefs.svg#facebook",
+                "/be-different/images/symboldefs.svg#linkedin"
+            ],
+            "id": "2rQJPpisJEw"
         },
         {
             "name": "Микола Тарасов-5",
@@ -528,28 +546,29 @@
             "position": "Marketing-5",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/mykola5-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola5-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola5-desktop-3x.jpg 3x"
+                    "/be-different/images/mykola5-desktop-1x.jpg 1x,",
+                    "/be-different/images/mykola5-desktop-2x.jpg 2x,",
+                    "/be-different/images/mykola5-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/mykola5-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola5-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola5-tablet-3x.jpg 3x"
+                    "/be-different/images/mykola5-tablet-1x.jpg 1x,",
+                    "/be-different/images/mykola5-tablet-2x.jpg 2x,",
+                    "/be-different/images/mykola5-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/mykola5-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola5-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/mykola5-mobile-3x.jpg 3x"
+                    "/be-different/images/mykola5-mobile-1x.jpg 1x,",
+                    "/be-different/images/mykola5-mobile-2x.jpg 2x,",
+                    "/be-different/images/mykola5-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/mykola5-mobile-1x.jpg"
+                "default": "/be-different/images/mykola5-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
-            ]
+                "/be-different/images/symboldefs.svg#instagram",
+                "/be-different/images/symboldefs.svg#twitter",
+                "/be-different/images/symboldefs.svg#facebook",
+                "/be-different/images/symboldefs.svg#linkedin"
+            ],
+            "id": "TZULhr7b3xw"
         },
         {
             "name": "Михайло Єрмаков-5",
@@ -557,28 +576,29 @@
             "position": "UI Designer-5",
             "images": {
                 "desktop": [
-                    "http://192.168.0.3:5177/be-different/images/muhailo5-desktop-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo5-desktop-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo5-desktop-3x.jpg 3x"
+                    "/be-different/images/muhailo5-desktop-1x.jpg 1x,",
+                    "/be-different/images/muhailo5-desktop-2x.jpg 2x,",
+                    "/be-different/images/muhailo5-desktop-3x.jpg 3x"
                 ],
                 "tablet": [
-                    "http://192.168.0.3:5177/be-different/images/muhailo5-tablet-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo5-tablet-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo5-tablet-3x.jpg 3x"
+                    "/be-different/images/muhailo5-tablet-1x.jpg 1x,",
+                    "/be-different/images/muhailo5-tablet-2x.jpg 2x,",
+                    "/be-different/images/muhailo5-tablet-3x.jpg 3x"
                 ],
                 "mobile": [
-                    "http://192.168.0.3:5177/be-different/images/muhailo5-mobile-1x.jpg 1x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo5-mobile-2x.jpg 2x,",
-                    "http://192.168.0.3:5177/be-different/images/muhailo5-mobile-3x.jpg 3x"
+                    "/be-different/images/muhailo5-mobile-1x.jpg 1x,",
+                    "/be-different/images/muhailo5-mobile-2x.jpg 2x,",
+                    "/be-different/images/muhailo5-mobile-3x.jpg 3x"
                 ],
-                "default": "http://192.168.0.3:5177/be-different/images/muhailo5-mobile-1x.jpg"
+                "default": "/be-different/images/muhailo5-mobile-1x.jpg"
             },
             "icons": [
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#instagram",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#twitter",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#facebook",
-                "http://192.168.0.3:5177/be-different/images/symboldefs.svg#linkedin"
-            ]
+                "/be-different/images/symboldefs.svg#instagram",
+                "/be-different/images/symboldefs.svg#twitter",
+                "/be-different/images/symboldefs.svg#facebook",
+                "/be-different/images/symboldefs.svg#linkedin"
+            ],
+            "id": "LdN9p7VsqQY"
         }
     ]
 }
